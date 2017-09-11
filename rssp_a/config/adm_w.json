@@ -1,0 +1,1 @@
+{"1": {"param": "first_adm", "weight": 4}, "-": {"param": "without_adm", "weight": 1}, "3": {"param": "third_adm", "weight": 2}, "2": {"param": "second_adm", "weight": 3}, "5": {"param": "without_adm", "weight": 1}}
